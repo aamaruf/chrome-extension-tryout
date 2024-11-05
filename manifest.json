@@ -1,0 +1,17 @@
+{
+    "name": "VISAThing Status Tracker",
+    "version": "1.0.0",
+    "description": "Track your application statuses easily and conveniently with this extension. Skip repeated website visits and complex navigation – stay updated right from your browser toolbar.",
+    "manifest_version": 3,
+    "author": "Abdullah Al Maruf",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "VISAThing Status Tracker"
+    },
+    "icons": {
+        "16": "favicon-3.png",
+        "32": "favicon-3.png",
+        "48": "favicon-3.png",
+        "128": "favicon-3.png"
+    }
+}
